@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "EBudcCuS3kmumgQxDSAgBDRsbSvCQrlUXp6abtzPaEE=",
+  "Source": "symphony-server",
+  "BasePath": "_content/symphony-server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
